@@ -35,7 +35,7 @@ using standard R packages: `tidyverse`, `tidyr`, `forcats`, `patchwork`,
 Scripts are available upon reasonable request. Please contact the corresponding author.
 
 ## Contact
-**Prof. Nuzhat Hussaon,**
+**Prof. Nuzhat Husain,**
 
 HOD, Department of Pathology
 
