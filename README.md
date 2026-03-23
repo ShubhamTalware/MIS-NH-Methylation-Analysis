@@ -44,4 +44,4 @@ Dr. Ram Manohar Lohiya Institute of Medical Sciences (RMLIMS), Lucknow
 Email: drnuzhathusain@gmail.com
 
 ## License
-Creative Commons Zero v1.0 Universal (CC0)
+MIT License
